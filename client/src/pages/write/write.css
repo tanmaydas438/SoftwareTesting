@@ -1,0 +1,86 @@
+.write {
+  padding-top: 50px;
+  background-color: #E0FFFF;
+}
+
+.writeImg {
+  margin-left: 250px;
+  width: 70vw;
+  height: 250px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.writeForm {
+  position: relative;
+}
+
+.writeFormGroup {
+  margin-left: 150px;
+  display: flex;
+  align-items: center;
+}
+
+.writeIcon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: rgb(47, 42, 42);
+  cursor: pointer;
+  margin-right: 25px;
+}
+
+.writeInput {
+  font-size: 30px;
+  border-style: solid;
+  border-color: #B0C4DE;
+  padding: 20px;
+  width: 70vw;
+  margin-top: 10px;
+}
+
+.writeInput:focus {
+  outline: none;
+  background-color: #F0FFFF;
+}
+
+.writeText {
+  font-size: 20px;
+  height: 100vh;
+}
+
+.writeSubmit {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  color: white;
+  background-color: teal;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-right: 40px;
+  width: 7.5%;
+  height: 4.5%;
+}
+
+.catText {
+  margin-left: 225px;
+}
+
+.descText {
+  margin-left: 75px;
+}
+
+.PostTitle {
+  text-align: center;
+  color: #696969;
+  font-family: 'Satisfy', cursive;
+  font-size: 100px;
+}
